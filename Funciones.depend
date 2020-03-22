@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1467718909 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\main.c
+	"Pantalla.h"
+	"TDAGrafico.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1467655782 d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\pantalla.h
+	"SDL2/SDL.h"
+
+1467718919 d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\tdagrafico.h
+	"TDAFuncion.h"
+
+1467718893 d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\tdafuncion.h
+	"TDAListaDouble.h"
+	"Pantalla.h"
+
+1467718901 d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\tdalistadouble.h
+
+1443359486 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1467718883 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\tdafuncion.c
+	"TDAFuncion.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1467718860 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\tdagrafico.c
+	"TDAGrafico.h"
+	<stdlib.h>
+
+1467718837 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\tdalistadouble.c
+	"TDAListaDouble.h"
+	<stdlib.h>
+
+1467718909 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\código\main.c
+	"Pantalla.h"
+	"TDAGrafico.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1467655782 d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\código\pantalla.h
+	"SDL2/SDL.h"
+
+1467718919 d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\código\tdagrafico.h
+	"TDAFuncion.h"
+
+1467718893 d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\código\tdafuncion.h
+	"TDAListaDouble.h"
+	"Pantalla.h"
+
+1467718901 d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\código\tdalistadouble.h
+
+1443359486 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\código\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1467718883 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\código\tdafuncion.c
+	"TDAFuncion.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1467718860 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\código\tdagrafico.c
+	"TDAGrafico.h"
+	<stdlib.h>
+
+1467718837 source:d:\marcos d\1 tp\proyecto\prueba000sdl\funciones\código\tdalistadouble.c
+	"TDAListaDouble.h"
+	<stdlib.h>
+
+1443359486 source:d:\marcos d\1º tp\proyecto\proyectofinal\código\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1467655782 d:\marcos d\1º tp\proyecto\proyectofinal\código\pantalla.h
+	"SDL2/SDL.h"
+
+1467718883 source:d:\marcos d\1º tp\proyecto\proyectofinal\código\tdafuncion.c
+	"TDAFuncion.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1467718893 d:\marcos d\1º tp\proyecto\proyectofinal\código\tdafuncion.h
+	"TDAListaDouble.h"
+	"Pantalla.h"
+
+1467718901 d:\marcos d\1º tp\proyecto\proyectofinal\código\tdalistadouble.h
+
+1467718837 source:d:\marcos d\1º tp\proyecto\proyectofinal\código\tdalistadouble.c
+	"TDAListaDouble.h"
+	<stdlib.h>
+
+1470836874 source:d:\marcos d\1º tp\proyecto\proyectofinal\código\main.c
+	"Pantalla.h"
+	"TDAGrafico.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1470837012 d:\marcos d\1º tp\proyecto\proyectofinal\código\tdagrafico.h
+	"TDAFuncion.h"
+
+1470837114 source:d:\marcos d\1º tp\proyecto\proyectofinal\código\tdagrafico.c
+	"TDAGrafico.h"
+	<stdlib.h>
+
